@@ -1,0 +1,8 @@
+{
+  "min_version": null,
+  "lang": "promql",
+  "location": null,
+  "max_version": null,
+  "url": "https://github.com/MichaHoffmann/tree-sitter-promql",
+  "semver": false
+}
