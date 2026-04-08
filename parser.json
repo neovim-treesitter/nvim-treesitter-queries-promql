@@ -1,6 +1,9 @@
 {
   "parser_version": "77625d78eebc3ffc44d114a07b2f348dff3061b0",
+  "lang": "promql",
   "semver": false,
   "url": "https://github.com/MichaHoffmann/tree-sitter-promql",
-  "lang": "promql"
+  "inject_deps": [
+    "regex"
+  ]
 }
